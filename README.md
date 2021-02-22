@@ -10,4 +10,4 @@
 5. Prediction 
 
 # Project Goal
-The goal of the project is to gather images, preprocess the data and by applying a suitable classification algorithm,evaluate the model to predict any new image.
+The goal of the project is to gather images, preprocess the data and by applying a suitable classification algorithm, evaluate the model to predict any new image.
