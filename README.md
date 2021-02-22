@@ -1,8 +1,8 @@
 # Image-Classification
 
-Bing Downloader is used for downloading all the images so no need to manually download the images
+# Bing Downloader is used for downloading all the images so no need to manually download the images
 
-#STEPS IN PROJECT
+# STEPS IN PROJECT
 1. Gathering of data - bing downloader
 2. Preprocessing of data
 3. SVM classification Algorithm using GridSearch CV
