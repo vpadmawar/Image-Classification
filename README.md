@@ -2,6 +2,8 @@
 
 # Bing Downloader is used for downloading all the images so no need to manually download the images
 
+images folder is also available which is used in this project(downloaded from bing downloader)
+
 # STEPS IN PROJECT
 1. Gathering of data - bing downloader
 2. Preprocessing of data
